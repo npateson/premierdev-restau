@@ -5,7 +5,7 @@ box-sizing: border-box;
 }
 
 .container {
-    background-image: url("imges/background.jpeg");
+    background-image: url("images/background.jpeg");
     min-height: 100vh;
     display: flex;
     flex-direction: column;
