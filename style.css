@@ -1,0 +1,21 @@
+* {
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+.container {
+    background-image: url("imges/background.jpeg");
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header, .footer {
+background-color: #A084E8;
+height: 60px;
+}
+
+.footer {
+    margin-top: auto;
+  }
