@@ -16,6 +16,22 @@ background-color: #A084E8;
 height: 60px;
 }
 
+ul,li,a {
+    display: flex;
+    color: #fff;
+    margin-left: 10px;
+    padding: .4rem;
+    text-decoration: none;
+    font-weight: 500;
+}
+
 .footer {
     margin-top: auto;
-  }
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: 500;
+    flex-direction: column-reverse;
+    text-align: center;
+    padding: 1rem;
+}
